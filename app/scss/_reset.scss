@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  /* scroll-behavior: smooth; */
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+ul[class],
+ol[class] {
+  padding: 0;
+}
+/* Все теги у которых есть атрибут href будут display: block;
+[href] {
+  display: block;
+} */
+
+body,
+p,
+ul[class],
+ol[class],
+h1,h2,h3,h4,h5,h6,
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+}
+ul[class] {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+button,
+textarea,
+select {
+font: inherit;
+}
