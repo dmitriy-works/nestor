@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Roboto-Regular', sans-serif;
+  font-weight: 400;
+  font-style: normal;  
+  src: local('Roboto-Regular'),
+    url(../fonts/Roboto-Regular.woff2) format('woff2'),
+    url(../fonts/Roboto-Regular.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto-bold', sans-serif;
+  font-weight: 700;
+  font-style: normal;  
+  src: local('Roboto-bold'),
+    url(../fonts/Roboto-bold.woff2) format('woff2'),
+    url(../fonts/Roboto-bold.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  src: local('Montserrat-Regular'),
+    url(../fonts/Montserrat-Regular.woff2) format('woff2'),
+    url(../fonts/Montserrat-Regular.woff) format('woff')
+}
+
+@font-face {
+  font-family: 'Montserrat-Medium', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  src: local('Montserrat-Medium'),
+    url(../fonts/Montserrat-Medium.woff2) format('woff2'),
+    url(../fonts/Montserrat-Medium.woff) format('woff')
+}
+
+@font-face {
+  font-family: 'Montserrat-bold', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  src: local('Montserrat-bold'),
+    url(../fonts/Montserrat-bold.woff2) format('woff2'),
+    url(../fonts/Montserrat-Bold.woff) format('woff')
+}
